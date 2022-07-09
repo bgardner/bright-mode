@@ -17,7 +17,7 @@
 <!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"padding":{"bottom":"60px","top":"100px"},"blockGap":"30px","margin":{"top":"0px"}}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-top:0px;padding-top:100px;padding-bottom:60px"><!-- wp:column {"verticalAlignment":"center","width":"45%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:45%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":1.3,"fontStyle":"normal","fontWeight":"300"}},"fontSize":"x-large"} -->
-<p class="has-x-large-font-size" style="font-style:normal;font-weight:300;line-height:1.3"><?php echo esc_html__( 'Are you interested in working with us? Send an email to', 'bright-mode' ); ?> <a href="mailto:hello@example.com" data-type="mailto" data-id="mailto:hello@example.com">hello@example.com</a> or <a href="#"><a href="#"><?php echo esc_html__( 'schedule a free call', 'bright-mode' ); ?></a></a>. <?php echo esc_html__( 'Ka-chow!', 'bright-mode' ); ?></p>
+<p class="has-x-large-font-size" style="font-style:normal;font-weight:300;line-height:1.3"><?php echo esc_html__( 'Are you interested in working with us? Send an email to', 'bright-mode' ); ?> <a href="mailto:hello@example.com" data-type="mailto" data-id="mailto:hello@example.com">hello@example.com</a> or <a href="#"><?php echo esc_html__( 'schedule a free call', 'bright-mode' ); ?></a>. <?php echo esc_html__( 'Ka-chow!', 'bright-mode' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 <!-- wp:column {"verticalAlignment":"center","width":"55%"} -->

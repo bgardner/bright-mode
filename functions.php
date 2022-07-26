@@ -138,8 +138,8 @@ function bright_mode_register_block_pattern_categories() {
 			'label'         => __( 'Header', 'bright-mode' ),
 			'categoryTypes' => array( 'bright-mode' ),
 		),
-		'bright-mode-page'         => array(
-			'label'         => __( 'Page', 'bright-mode' ),
+		'bright-mode-link-page'    => array(
+			'label'         => __( 'Link Page', 'bright-mode' ),
 			'categoryTypes' => array( 'bright-mode' ),
 		),
 		'bright-mode-testimonials' => array(

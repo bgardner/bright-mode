@@ -19,7 +19,7 @@
 <p>© 2022 Your Company LLC · <a href="https://wordpress.org/themes/bright-mode/" data-type="URL" data-id="https://wordpress.org/themes/bright-mode/">Bright Mode Theme</a> <?php echo esc_html__( 'by', 'bright-mode' ); ?> <a href="https://briangardner.com/" data-type="URL" data-id="https://briangardner.com/">Brian Gardner</a></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><a href="#">Facebook</a>&nbsp;·&nbsp;<a href="#">Twitter</a>&nbsp;·&nbsp;<a href="#">Instagram</a></p>
+<p><a href="#">Twitter</a> · <a href="#">Instagram</a> · <a href="#">LinkedIn</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

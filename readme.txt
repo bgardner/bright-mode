@@ -12,6 +12,10 @@ Bright Mode is a block theme for those who love modern design and vibrant colors
 
 == Changelog ==
 
+= 1.0.3 =
+
+Add link page patterns.
+
 = 1.0.2 =
 
 Remove accessibility-ready, tag.

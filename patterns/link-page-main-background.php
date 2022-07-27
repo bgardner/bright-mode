@@ -15,10 +15,10 @@
 <figure class="wp-block-image aligncenter size-full is-resized is-style-rounded"><img src="<?php echo esc_url( get_template_directory_uri() ) . '/assets/images/avatar.jpg'; ?>" alt="Sample Avatar" class="wp-image-266" width="120" height="120"/></figure>
 <!-- /wp:image -->
 <!-- wp:heading {"textAlign":"center","fontSize":"x-large"} -->
-<h2 class="has-text-align-center has-x-large-font-size" id="your-name-1">Your Name</h2>
+<h2 class="has-text-align-center has-x-large-font-size" id="your-name-1"><?php echo esc_html__( 'Your Name', 'bright-mode' ); ?></h2>
 <!-- /wp:heading -->
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Company Name<br><a href="mailto:name@exmaple.com">name@example.com</a></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Company Name', 'bright-mode' ); ?><br><a href="mailto:name@exmaple.com">name@example.com</a></p>
 <!-- /wp:paragraph -->
 <!-- wp:social-links {"iconColor":"main","iconColorValue":"#000","iconBackgroundColor":"base","iconBackgroundColorValue":"#fff","size":"has-normal-icon-size","align":"center","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"10px"}}} -->
 <ul class="wp-block-social-links aligncenter has-normal-icon-size has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
@@ -32,26 +32,26 @@
 <!-- /wp:spacer -->
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"},"style":{"spacing":{"blockGap":"10px"}}} -->
 <div class="wp-block-buttons"><!-- wp:button {"width":100,"className":"is-style-fill-background is-style-shadow-base"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link">Visit My Website</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link"><?php echo esc_html__( 'Visit My Website', 'bright-mode' ); ?></a></div>
 <!-- /wp:button -->
 <!-- wp:button {"width":100,"className":"is-style-fill-background is-style-shadow-base"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link">Read My Blog</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link"><?php echo esc_html__( 'Read My Blog', 'bright-mode' ); ?></a></div>
 <!-- /wp:button -->
 <!-- wp:button {"width":100,"className":"is-style-fill-background is-style-shadow-base"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link">Download My Ebook</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link"><?php echo esc_html__( 'Download My Ebook', 'bright-mode' ); ?></a></div>
 <!-- /wp:button -->
 <!-- wp:button {"width":100,"className":"is-style-fill-background is-style-shadow-base"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link">Follow My Newsletter</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link"><?php echo esc_html__( 'Follow My Newsletter', 'bright-mode' ); ?></a></div>
 <!-- /wp:button -->
 <!-- wp:button {"width":100,"className":"is-style-fill-background is-style-shadow-base"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link">Listen to My Podcast</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill-background is-style-shadow-base"><a class="wp-block-button__link"><?php echo esc_html__( 'Listen to My Podcast', 'bright-mode' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 <!-- wp:spacer {"height":"40px"} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size"><a href="https://wordpress.org/themes/bright-mode/">Made with Bright Mode</a></p>
+<p class="has-text-align-center has-small-font-size"><a href="https://wordpress.org/themes/bright-mode/"><?php echo esc_html__( 'Made with Bright Mode', 'bright-mode' ); ?></a></p>
 <!-- /wp:paragraph -->
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>

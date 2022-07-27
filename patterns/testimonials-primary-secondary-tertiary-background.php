@@ -20,16 +20,16 @@
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.5"}},"fontSize":"max-72"} -->
 <p class="has-max-72-font-size" style="line-height:0.5">“</p>
 <!-- /wp:paragraph -->
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"tiny"} -->
-<p class="has-tiny-font-size" style="font-style:normal;font-weight:400">Bright Mode is a block theme for those who love modern design and vibrant colors. Coming soon are fresh patterns, new templates, and even variations.</p>
+<!-- wp:paragraph -->
+<p>Bright Mode is a block theme for those who love modern design and vibrant colors. Coming soon are fresh patterns, new templates, and even variations.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":4544,"width":80,"height":80,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"50px"}},"className":"is-style-rounded"} -->
 <figure class="wp-block-image size-full is-resized is-style-rounded" style="border-radius:50px"><img src="<?php echo esc_url( get_template_directory_uri() ) . '/assets/images/avatar.jpg'; ?>" alt="Testimonial Avatar" class="wp-image-4544" width="80" height="80"/></figure>
 <!-- /wp:image -->
-<!-- wp:list {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"400"}},"className":"is-style-no-disc","fontSize":"tiny"} -->
-<ul class="is-style-no-disc has-tiny-font-size" style="font-style:normal;font-weight:400;line-height:1.5"><li><strong>Brian Gardner</strong></li><li>Founder, Minimologie</li></ul>
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.5"}},"className":"is-style-no-disc"} -->
+<ul class="is-style-no-disc" style="line-height:1.5"><li><strong>Brian Gardner</strong></li><li>Founder, Minimologie</li></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -40,16 +40,16 @@
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.5"}},"fontSize":"max-72"} -->
 <p class="has-max-72-font-size" style="line-height:0.5">“</p>
 <!-- /wp:paragraph -->
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"tiny"} -->
-<p class="has-tiny-font-size" style="font-style:normal;font-weight:400">Bright Mode is a block theme for those who love modern design and vibrant colors. Coming soon are fresh patterns, new templates, and even variations.</p>
+<!-- wp:paragraph -->
+<p>Bright Mode is a block theme for those who love modern design and vibrant colors. Coming soon are fresh patterns, new templates, and even variations.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":4544,"width":80,"height":80,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"50px"}},"className":"is-style-rounded"} -->
 <figure class="wp-block-image size-full is-resized is-style-rounded" style="border-radius:50px"><img src="<?php echo esc_url( get_template_directory_uri() ) . '/assets/images/avatar.jpg'; ?>" alt="Testimonial Avatar" class="wp-image-4544" width="80" height="80"/></figure>
 <!-- /wp:image -->
-<!-- wp:list {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"400"}},"className":"is-style-no-disc","fontSize":"tiny"} -->
-<ul class="is-style-no-disc has-tiny-font-size" style="font-style:normal;font-weight:400;line-height:1.5"><li><strong>Brian Gardner</strong></li><li>Founder, Minimologie</li></ul>
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.5"}},"className":"is-style-no-disc"} -->
+<ul class="is-style-no-disc" style="line-height:1.5"><li><strong>Brian Gardner</strong></li><li>Founder, Minimologie</li></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -60,16 +60,16 @@
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.5"}},"fontSize":"max-72"} -->
 <p class="has-max-72-font-size" style="line-height:0.5">“</p>
 <!-- /wp:paragraph -->
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"tiny"} -->
-<p class="has-tiny-font-size" style="font-style:normal;font-weight:400">Bright Mode is a block theme for those who love modern design and vibrant colors. Coming soon are fresh patterns, new templates, and even variations.</p>
+<!-- wp:paragraph -->
+<p>Bright Mode is a block theme for those who love modern design and vibrant colors. Coming soon are fresh patterns, new templates, and even variations.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":4544,"width":80,"height":80,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"50px"}},"className":"is-style-rounded"} -->
 <figure class="wp-block-image size-full is-resized is-style-rounded" style="border-radius:50px"><img src="<?php echo esc_url( get_template_directory_uri() ) . '/assets/images/avatar.jpg'; ?>" alt="Testimonial Avatar" class="wp-image-4544" width="80" height="80"/></figure>
 <!-- /wp:image -->
-<!-- wp:list {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"400"}},"className":"is-style-no-disc","fontSize":"tiny"} -->
-<ul class="is-style-no-disc has-tiny-font-size" style="font-style:normal;font-weight:400;line-height:1.5"><li><strong>Brian Gardner</strong></li><li>Founder, Minimologie</li></ul>
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.5"}},"className":"is-style-no-disc"} -->
+<ul class="is-style-no-disc" style="line-height:1.5"><li><strong>Brian Gardner</strong></li><li>Founder, Minimologie</li></ul>
 <!-- /wp:list --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
